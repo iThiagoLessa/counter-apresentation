@@ -1,11 +1,10 @@
-import CounterRedux from "./components/CounterRedux";
-import CounterZustand from "./components/CounterZustand";
+import { RouterProvider } from "react-router-dom";
+import { router } from "./routes";
 
 function App() {
   return (
     <section>
-      <CounterRedux />
-      <CounterZustand />
+      <RouterProvider router={router}></RouterProvider>
     </section>
   );
 }
