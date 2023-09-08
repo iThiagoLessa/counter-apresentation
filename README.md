@@ -1,8 +1,20 @@
-# React + Vite
+# Presentation State managers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was a project created for a presentation on state managers in my work's web chapter.
 
-Currently, two official plugins are available:
+## To run this project you will need follow this steps: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- clone the project
+- open the terminal and go to the path where you saved the project
+- run the command `yarn` or `yarn install`
+- after installed all the dependencies from the project run `yarn dev`
+
+
+## About the Project
+
+In the first page you will have two counters builded with `Redux toolkit` and `Zustand`.;
+
+
+## /requests page
+
+This page contains two containers builded with `Redux` and `Zustand` but doing async requests;
