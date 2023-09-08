@@ -19,3 +19,17 @@ export const StBoxContainer = styled.div`
 export const StButton = styled.button`
   color: white;
 `;
+
+export const StContainer = styled.div`
+  display: flex;
+  gap: 30px;
+`;
+export const StPokemonContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #6d6c6c;
+  border-radius: 8px;
+  padding: 10px;
+`;
