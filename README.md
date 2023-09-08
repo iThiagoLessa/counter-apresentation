@@ -1,14 +1,13 @@
 # Presentation State managers
 
-This was a project created for a presentation on state managers in my work's web chapter.
+This was a project created for a presentation on state managers in my work's web chapter. In this project, I added some technologies like: `vite`, `react-router-dom`, `react` , `styled-components`, `redux toolkit` and `Zustand`.
 
-## To run this project you will need follow this steps: 
+## To run this project you will need follow this steps:
 
 - clone the project
 - open the terminal and go to the path where you saved the project
 - run the command `yarn` or `yarn install`
 - after installed all the dependencies from the project run `yarn dev`
-
 
 ## About the Project
 
