@@ -1,6 +1,6 @@
 # Presentation State managers
 
-This was a project created for a presentation on state managers in my work's web chapter. In this project, I added some technologies like: `vite`, `react-router-dom`, `react` , `styled-components`, `redux toolkit` and `Zustand`.
+This is a project created for a presentation about state managers in my work's web chapter. In this project, I added some technologies like: `vite`, `react-router-dom`, `react` , `styled-components`, `redux toolkit` and `Zustand`.
 
 ## To run this project you will need follow this steps:
 
